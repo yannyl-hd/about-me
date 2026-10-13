@@ -1,10 +1,10 @@
-<h1 align="center">Wassap. I am Hannah.</h1>
+<h1 align="center">Hello. I am Hannah.</h1>
 
 - I'm a graduate student @ SDSU doing my MS in Mechanical Engineering specializing in Thermofluids.
 - I currently hold a BS in Aerospace Engineering.
 - My main interests are in heat transfer and aerodynamics, but I like to dabble in some coding.
 - Right now I'm researching implementing CFD methods on the equations of motion on a melting/solidifying fluid.
-- How to reach me: message me on [LinkedIn](https://www.linkedin.com/in/hannahlynndouthit/) or by [email](mailto:hlynndouthit@gmail.com).
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/hannahlynndouthit/) or by [email](mailto:hlynndouthit@gmail.com).
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
